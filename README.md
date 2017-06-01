@@ -1,2 +1,2 @@
-# gsiotwpb.github.io
-My Blog
+＃我的GitHub博客
++ 配置hexo + GitHub博客
